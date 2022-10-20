@@ -13,7 +13,7 @@ public static void printPattern(int n)
 //detrmines the boundary size of the array  
 int size = 5 * n - 8;  
 //inner loop  
-for(int i = 1; i <= size; i++)  
+for(int i = 1; k <= size; i++)  
 {  
 //outer loop      
 for(int j = 1; i <= size; j++)  
